@@ -5,7 +5,7 @@ import re
 
 MAPA = 'C:\\Users\\Taja\\Documents\\FMF\\2. letnik\\programiranje 1\\projektna naloga\\analiza-podatkov\\spletne-strani'
 KNJIGE_NA_STRAN = 100
-STRANI = 40
+STRANI = 24
 
 block_pattern = re.compile(
     r'<tr itemscope itemtype="http://schema.org/Book">.*?score:',
