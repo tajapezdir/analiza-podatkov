@@ -5,23 +5,28 @@ Analizirala bom 4000 najboljših knjig sodeč po seznamu
 [Best Books Ever](https://www.goodreads.com/list/show/1.Best_Books_Ever?page=1), ki so ga izglasovali
 uporabniki spletnega portala [GoodReads](https://www.goodreads.com/)
 
-Za vsako knjigo s seznama bom zajela:
+Za vsako knjigo s seznama sem zajela:
 * naslov
 * avtorja
 * oceno
 * število glasov
-* ali pripada seriji knjig in katera po vrsti je
+* ali pripada seriji knjig
 
-Če ne bom zadovoljna s količino podatkov, bom pred analizo zajela še:
+Nato sem iz strani vaske posamične knjige zajela še:
 * leto prve izdaje
-* založbo
-* glavni žanr
+* število strani
+* nekaj glavnih žanrov
+
+Pri analizi sem preverila, kako so žanr, leto izdaje in število starni povezani s popularnostjo in kvaliteto knjige,
+zanimalo pa me je tudi, kako na priljubljene so serije.
 
 Delovne hipoteze:
 * Ali so knjižne serije bolj uspešne od samostojnih knjig?
-* Če so, je najuspešnejša prva knjiga v seriji?
+* Katera desetletja / stoletja so najbolj priljubljena?
+* Ali imajo knjige z veliko starnmi dobro oceno?
 * Ali imajo knjige z višjo oceno tudi več mnenj?
-* Dodatno: Ali so klasike uspešnejše od novih ljubezenskih / fantazijskih?
+* Kako priljubljena je klasična književnost 
+
 
 Opomba: Sprva sem želela analizirati seznam 500 najboljših albumov, ki jih vsakih nekaj let izda revija 
 Rolling Stone, vendar sem ugotovila, da je to premajhna količina podatkov, prav tako pa se je izkazalo, 
