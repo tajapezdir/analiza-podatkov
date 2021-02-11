@@ -24,7 +24,7 @@ Delovne hipoteze:
 * Ali so knjižne serije bolj uspešne od samostojnih knjig?
 * Katera desetletja / stoletja so najbolj priljubljena?
 * Ali imajo knjige z veliko starnmi dobro oceno?
-* Ali imajo knjige z višjo oceno tudi več mnenj?
+* Ali imajo knjige z višjo oceno tudi več glasov?
 * Kako priljubljena je klasična književnost 
 
 
