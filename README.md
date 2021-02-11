@@ -23,8 +23,13 @@ zanimalo pa me je tudi, kako na priljubljene so serije.
 Delovne hipoteze:
 * Ali so knjižne serije bolj uspešne od samostojnih knjig?
 * Katera desetletja / stoletja so najbolj priljubljena?
+<<<<<<< HEAD
 * Ali imajo knjige z veliko starnmi dobro oceno?
 * Ali imajo knjige z višjo oceno tudi več glasov?
+=======
+* Ali imajo knjige z veliko stranmi dobro oceno?
+* Ali imajo knjige z višjo oceno tudi več mnenj?
+>>>>>>> 710b47fc1f0b9389a905dcb403fec2b1da006722
 * Kako priljubljena je klasična književnost 
 
 
